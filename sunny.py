@@ -1,14 +1,5 @@
- ​#!/usr/bin/python 
- ​# -*- coding: UTF-8 -*- 
-  
- ​from​ ​os​ ​import​ ​system​, ​name 
- ​import​ ​itertools 
- ​import​ ​threading 
- ​import​ ​time 
- ​import​ ​sys 
- ​import​ ​datetime 
- ​from​ ​base64​ ​import​ ​b64decode​,​b64encode 
- ​from​ ​datetime​ ​import​ ​date 
+
+
   
  ​today​=​date​.​today​() 
  ​def​ ​hero​(): 
